@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JJJLew
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS, Javascript.
 - 💞️ I’m looking to collaborate on skillbuilding projects.
 - 📫 How to reach me Linkedin-- https://www.linkedin.com/in/jazmyne-lewis-930514231/
 - 😄 I'm alive
